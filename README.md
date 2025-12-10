@@ -74,6 +74,16 @@ I'm a passionate **Information Technology** student at **NIT Kurukshetra**, spec
 
 ---
 
+## 🏆 Achievements
+
+### GitHub Badges
+<p>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100" alt="Pull Shark" title="Pull Shark: Opened a pull request that was merged"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="100" alt="YOLO" title="YOLO: Merged a pull request without code review"/>
+</p>
+
+---
+
 ## 💼 Featured Projects
 
 ### 🏥 [Hospital Management System](https://github.com/Rahulpastam/rphms_frontend-1)
