@@ -23,6 +23,7 @@ I'm a passionate **Information Technology** student at **NIT Kurukshetra**, spec
 - 🔧 **IoT Developer** - Smart Energy Monitoring Systems
 - 🌱 Currently learning **Advanced Machine Learning** and **Cloud Technologies**
 - 💡 Open to collaborating on **Web Development** and **Data Science** projects
+- 🎯 **Interests:** Data-driven applications, workflow automation, applied machine learning, and designing scalable full-stack systems.
 
 ---
 
@@ -41,6 +42,8 @@ I'm a passionate **Information Technology** student at **NIT Kurukshetra**, spec
 ### Frontend Development
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
   <img src="https://img.shields.io/badge/EJS-8BC0D0?style=for-the-badge&logo=ejs&logoColor=black" alt="EJS"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
@@ -61,6 +64,8 @@ I'm a passionate **Information Technology** student at **NIT Kurukshetra**, spec
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
 </p>
 
 ### Tools & Technologies
@@ -69,6 +74,7 @@ I'm a passionate **Information Technology** student at **NIT Kurukshetra**, spec
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
 </p>
 
@@ -80,8 +86,18 @@ I'm a passionate **Information Technology** student at **NIT Kurukshetra**, spec
 
 | Badge | Name | Description |
 |:---:|:---:|:---|
-| <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100" alt="Pull Shark"/> | **Pull Shark** | Earned for opening PRs which were successfully merged. |
+| <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100" alt="Pull Shark"/> | **Pull Shark** | Earned for opening PR which were successfully merged. |
 | <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="100" alt="YOLO"/> | **YOLO** | Earned for merging PR with code reviews. |
+
+---
+
+## 💼 Experience
+
+### Software Development Engineering Intern | Evectra India
+*Oct 2024 - Jan 2025*
+- Architected and implemented the corporate website using **Modern Frontend Frameworks**, ensuring responsiveness and optimized user experience.
+- Exercised full lifecycle ownership of software features from ideation to production deployment.
+- Collaborated within a cross-functional **Agile team** to deliver technical solutions aligned with business objectives.
 
 ---
 
@@ -102,9 +118,13 @@ Full-stack **E-commerce platform** with modern shopping cart features.
 - **Features:** Product catalog, shopping cart, user authentication, order management
 
 ### 🎓 [Secure Result Management System](https://github.com/Rahulpastam/Secure-Result-Management-and-Automated-Query-Resolution-System)
-A comprehensive web application for **academic result management and complaint handling** in educational institutions.
-- **Tech Stack:** Python, Flask/Django, Machine Learning, MongoDB
-- **Features:** Secure result publishing, automated query resolution, complaint tracking
+**AI-Enhanced Complaint Analytics Platform** designed to streamline academic result management.
+- **Tech Stack:** Python, SQL, Streamlit, SQLite
+- **ML Models:** TF-IDF + LogReg (Text Classification), SBERT (Semantic Duplicate Detection), Cox PH (SLA Risk Prediction), Isolation Forest (Anomaly Detection)
+- **Features:** 
+  - AI-driven insights and workflow automation
+  - Role-based access control and clean dashboards
+  - Scalable database workflows with parameterized queries
 
 ### 👕 [RP Apparel Application](https://github.com/Rahulpastam/RP_Apparel_Application)
 Modern **clothing e-commerce application** with inventory management.
