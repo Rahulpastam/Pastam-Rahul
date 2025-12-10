@@ -77,10 +77,11 @@ I'm a passionate **Information Technology** student at **NIT Kurukshetra**, spec
 ## 🏆 Achievements
 
 ### GitHub Badges
-<p>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100" alt="Pull Shark" title="Pull Shark: Opened a pull request that was merged"/>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="100" alt="YOLO" title="YOLO: Merged a pull request without code review"/>
-</p>
+
+| Badge | Name | Description |
+|:---:|:---:|:---|
+| <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100" alt="Pull Shark"/> | **Pull Shark** | Earned for opening a pull request that was successfully merged. |
+| <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="100" alt="YOLO"/> | **YOLO** | Earned for merging a pull request without code review. |
 
 ---
 
