@@ -80,8 +80,8 @@ I'm a passionate **Information Technology** student at **NIT Kurukshetra**, spec
 
 | Badge | Name | Description |
 |:---:|:---:|:---|
-| <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100" alt="Pull Shark"/> | **Pull Shark** | Earned for opening a pull request that was successfully merged. |
-| <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="100" alt="YOLO"/> | **YOLO** | Earned for merging a pull request without code review. |
+| <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100" alt="Pull Shark"/> | **Pull Shark** | Earned for opening PRs which were successfully merged. |
+| <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="100" alt="YOLO"/> | **YOLO** | Earned for merging PR with code reviews. |
 
 ---
 
